@@ -1,0 +1,226 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.box{
+    height: 90%;
+    width: 50%;
+    background-color: black;
+    position: absolute;
+    margin-top: 2%;
+    left: 20%;
+}
+.img1{
+    height: 15%;
+    width: 15%;
+}
+h1{
+    color: white;
+    position: absolute;
+    left: 47%;
+    top: 2%;
+}
+h2{
+    color: white;
+    position: absolute;
+    left: 67%;
+    top: 8%;
+}
+.box1{
+    height: 76%;
+    width: 89%;
+    background-color: gray;
+    position: absolute;
+    left: 6%;
+}
+.box2{
+    height: 11%;
+    width: 9%;
+    background-color: yellow;
+    position: absolute;
+    margin-top: 5%;
+    left: 4%;
+    border-radius: 45px;
+}
+.one{
+    position: absolute;
+    left: 8%;
+    margin-top: 7%;
+    font-size: 20px;
+}
+.box3{
+    height: 11%;
+    width: 9%;
+    background-color: yellow;
+    position: absolute;
+    margin-top: 17%;
+    left: 4%;
+    border-radius: 45px;
+}
+.two{
+    position: absolute;
+    margin-top: 19%;
+    left: 8%;
+    font-size: 20px;
+}
+.box4{
+    height: 11%;
+    width: 9%;
+    background-color: yellow;
+    position: absolute;
+    margin-top: 29%;
+    left: 4%;
+    border-radius: 45px;
+}
+.three{
+    position: absolute;
+    margin-top: 31%;
+    left: 8%;
+    font-size: 20px;
+}
+.box5{
+    height: 11%;
+    width: 9%;
+    background-color: yellow;
+    position: absolute;
+    margin-top: 41%;
+    left: 4%;
+    border-radius: 45px;
+}
+.four{
+    position: absolute;
+    margin-top: 43%;
+    left: 8%;
+    font-size: 20px;
+}
+.box6{
+    height: 11%;
+    width: 9%;
+    background-color: yellow;
+    position: absolute;
+    margin-top: 52%;
+    left: 4%;
+    border-radius: 45px;
+}
+.five{
+    position: absolute;
+    margin-top: 54%;
+    left: 8%;
+    font-size: 20px;
+}
+.img2{
+    height: 11%;
+    width: 9%;
+    margin-top: 5%;
+    border-radius: 45px;
+    position: absolute;
+    left: 16%;
+
+}
+.img3{
+    height: 11%;
+    width: 9%;
+    border-radius: 45px;
+    position: absolute;
+    left: 16%;
+    margin-top: 17%;
+
+}
+.img4{
+    height: 11%;
+    width: 9%;
+    border-radius: 45px;
+    position: absolute;
+    left: 16%;
+    margin-top: 29%;
+
+}
+.img5{
+    height: 11%;
+    width: 9%;
+    border-radius: 45px;
+    position: absolute;
+    left: 16%;
+    margin-top: 41%;
+
+}
+
+.img6{
+    height: 11%;
+    width: 9%;
+    border-radius: 45px;
+    position: absolute;
+    left: 16%;
+    margin-top: 52%;
+
+}
+.button1{
+    position: absolute;
+    left: 31%;
+    margin-top: 5%;
+    padding: 15px 115px;
+    background-color: rgba(165, 42, 42, 0.845);
+    border: none;
+    border-radius: 3px 20px;
+    color: white;
+}
+.button2{
+    
+    position: absolute;
+    left: 31%;
+    margin-top: 17%;
+    padding: 15px 115px;
+    background-color: rgba(165, 42, 42, 0.845);
+    border: none;
+    border-radius: 3px 20px;
+    color: white;
+}
+.button3{
+
+    position: absolute;
+    left: 31%;
+    margin-top: 29%;
+    padding: 15px 115px;
+    background-color: rgba(165, 42, 42, 0.845);
+    border: none;
+    border-radius: 3px 20px;
+    color: white;
+}
+.button4{
+    position: absolute;
+    left: 31%;
+    margin-top: 41%;
+    padding: 15px 115px;
+    background-color: rgba(165, 42, 42, 0.845);
+    border: none;
+    border-radius: 3px 20px;
+    color: white;
+    
+}
+.button5{
+    position: absolute;
+    left: 31%;
+    margin-top: 52%;
+    padding: 15px 115px;
+    background-color: rgba(165, 42, 42, 0.845);
+    border: none;
+    border-radius: 3px 20px;
+    color: white;
+}
+h4{
+    color: white;
+    position: absolute;
+    margin-top: 66%;
+    left: 3%;
+}
+h5{
+    color: white;
+    position: absolute;
+    margin-top: 66%;
+    right: 3%;
+}
